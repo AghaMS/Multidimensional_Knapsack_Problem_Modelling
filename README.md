@@ -5,4 +5,6 @@ This repo contains the following:
 
 2- A python file (MKP_populate_function.py .... the same as the Jupyter notebook, but in .py format)
 
-3- Seven different MKP data files to be used as test instances
+3- A python file (MKP_Math_Model.py) with the mathematical model of the MKP
+
+4- Seven different MKP data files to be used as test instances
