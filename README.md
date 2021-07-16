@@ -8,10 +8,17 @@ This repo contains the following:
 3- A Python file [MKP_Math_Model.py](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/MKP_Math_Model.py) with the mathematical model of the MKP
 
 4- Seven different MKP data files to be used as test instances
+
   [Instance 1](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknapcb1_1.txt)
+  
   [Instance 2](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknap01_2.txt)
+  
   [Instance 3](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknap01_3.txt)
+  
   [Instance 4](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknap01_4.txt)
+  
   [Instance 5](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknap01_5.txt)
+  
   [Instance 6](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknap01_6.txt)
+  
   [Instance 7](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/mknap01_7.txt)
