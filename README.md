@@ -5,7 +5,7 @@ This repo contains the following files:
 
 2- A Python file [MKP_populate_function.py](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/MKP_populate_function.py) is the same as the Jupyter notebook, but in .py format.
 
-3- A Python file [MKP_Math_Model.py](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/MKP_Math_Model.py) with the mathematical model of the MKP solved using IBM CPLEX solver.
+3- A Python file [MKP_Math_Model.py](https://github.com/AghaMS/Multidimensional-Knapsack-Problem-populateFunction/blob/main/MKP_Math_Model.py) with the mathematical model of the MKP solved using [IBM CPLEX solver](https://www.ibm.com/products/ilog-cplex-optimization-studio).
 
 4- Seven different [MKP](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/mknapinfo.html) data files to be used as test instances. Test sets can be found at the online [OR-Library](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/)
 
